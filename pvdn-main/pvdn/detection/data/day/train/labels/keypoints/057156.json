@@ -1,0 +1,1 @@
+{"image_id": 57156, "annotations": [{"oid": 0, "pos": [885, 507], "instances": [{"iid": 0, "pos": [878, 501], "direct": true, "rear": false}, {"iid": 1, "pos": [893, 501], "direct": true, "rear": false}, {"iid": 6, "pos": [848, 514], "direct": false, "rear": false}], "direct": true}]}
