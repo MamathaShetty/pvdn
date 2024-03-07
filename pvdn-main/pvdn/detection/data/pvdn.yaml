@@ -1,0 +1,5 @@
+names: [instance]
+nc: 1
+test: /content/drive/MyDrive/Thesis/PVDN/Day/test
+train: /content/drive/MyDrive/Thesis/PVDN/Day/train
+val: /content/drive/MyDrive/Thesis/PVDN/Day/val
